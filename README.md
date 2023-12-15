@@ -56,7 +56,7 @@ To compile cub3D, follow these steps:
 
 To run cub3D, use the following command:  
 
-    ```
+    ```bash
     ./bin/cub3D <map_file>
     ```
 
