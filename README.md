@@ -19,7 +19,7 @@ My main focus was implementing the raycasting part, particularly within the `src
 
 ## Project Description
 
-The cub3D project involves creating a 3D maze using raycasting techniques to render a textured world in a 2D plane, using a graphical library called "MiniLibX" (https://github.com/42Paris/minilibx-linux).
+The cub3D project involves creating a 3D maze with raycasting techniques to render a textured world in a 2D plane, utilizing the graphical library called "MiniLibX" (https://github.com/42Paris/minilibx-linux).  
 The objective is to build a functional game engine capable of rendering a textured map, handling player movements, collisions, and visualizing the environment in a pseudo-3D style.  
 
 The program's functionalities include the following:  
