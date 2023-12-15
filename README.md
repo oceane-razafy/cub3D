@@ -56,11 +56,10 @@ To compile cub3D, follow these steps:
 
 To run cub3D, use the following command:  
 
-    ```bash
-    ./bin/cub3D <map_file>
+    ```
+    ./bin/cub3D map.cub  
     ```
 
-Replace `<map_file>` with the path to the map file that defines the game environment.  
 The map file must have a `.cub` extension.  
 
 *Note: The `map.cub` file included in this repository serves as an example derived from the project subject `cub3D.pdf`. Ensure your map file follows a similar format and adheres to the specified requirements outlined in the project instructions and mentioned below.*  
