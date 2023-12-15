@@ -57,7 +57,7 @@ To compile cub3D, follow these steps:
 To run cub3D, use the following command:  
 
     ```
-    ./bin/cub3D map.cub  
+    ./bin/cub3D map.cub
     ```
 
 The map file must have a `.cub` extension.  
