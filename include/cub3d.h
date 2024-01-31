@@ -6,7 +6,7 @@
 /*   By: orazafy <orazafy@student.42.fr>            +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/19 23:11:29 by orazafy           #+#    #+#             */
-/*   Updated: 2023/12/15 01:55:47 by orazafy          ###   ########.fr       */
+/*   Updated: 2024/01/31 03:28:31 by orazafy          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -132,6 +132,7 @@ typedef struct s_cub3d
 char	**build_file(t_cub3d *cub3d, char **argv, int nb_line);
 
 // build_map.c
+void	check_element(t_cub3d *cub3d);
 void	build_map(t_cub3d *cub3d, char **file, int idx);
 
 // ft_check_tex_files.c
